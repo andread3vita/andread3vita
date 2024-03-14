@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-- 👋 Hi there!!! My name is Andrea De Vita.
+Hi there!!! My name is Andrea De Vita.
 
 ## :mortar_board: M.Sc. in Physics of Data @ UniPd
 
