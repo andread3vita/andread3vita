@@ -6,6 +6,7 @@ During my academic path I have always thought that the best way to contribute in
 
 ## :incoming_envelope: Contacts
 * email: andrea.devita.1@studenti.unipd.it
+* personal email: andreadevita00@gmail.com
 
 ## :mortar_board: Education
 
