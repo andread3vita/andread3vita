@@ -29,7 +29,7 @@ I graduated in Physics with a thesis about a study of performance of a dual read
 ## :high_brightness: Hobbies
 
 ### Sport
-I used to play basketball when I was a child and I currently play Table Tennis at CUS Padova.
+I used to play basketball when I was a child and I am currently member of the CERN Basketball Club.
 
 ### Wikipedia
 I am Wikipedia User since 2018 and in 2020 I was promoted to autopatrolled user.
