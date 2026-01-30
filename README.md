@@ -10,9 +10,13 @@ During my academic path I have always thought that the best way to contribute in
 
 ## :mortar_board: Education
 
+### PHD in Physics @ CERN & UniPd
+
+I am a PHD candidate at CERN working on tracking reconstruction at FCC-ee.
+
 ### M.Sc. in Physics of Data @ UniPd
 
-I am a Master student in Physics of Data and I’m currently working on “Particle detectors optimization with deep learning techniques”.
+I graduated in Physics of Data with a thesis about Hadron Identification with Highly-Granular Calorimeters.
 
 ### B.Sc. in Physics @ UniPv:
 
