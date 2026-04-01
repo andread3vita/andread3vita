@@ -5,7 +5,8 @@ Hi there!!! My name is Andrea De Vita. Since I started high school, I have been 
 During my academic path I have always thought that the best way to contribute in the world of experimental physics is to investigate alternative solutions to the state of the art instruments. For this reason I delved into ML technicques and their application to High Energy Physics problems. Moreover I am interested in the FCC proposal because I am aware of the limitations that are present in nowadays colliders. Indeed, I believe that it is possible to design a new generation of detectors addressing the requirement of possible physics discoveries.
 
 ## :incoming_envelope: Contacts
-* email: andrea.devita.1@studenti.unipd.it
+* cern email: andrea.de.vita@cern.ch
+* university email: andrea.devita.1@phd.unipd.it
 * personal email: andreadevita00@gmail.com
 
 ## :mortar_board: Education
