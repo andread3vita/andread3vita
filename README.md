@@ -7,8 +7,7 @@ During my academic path I have always thought that the best way to contribute in
 ## :incoming_envelope: Contacts
 * cern email: andrea.de.vita@cern.ch
 * university email: andrea.devita.1@phd.unipd.it
-* personal email: andreadevita00@gmail.com
-
+  
 ## :mortar_board: Education
 
 ### PHD in Physics @ CERN & UniPd
