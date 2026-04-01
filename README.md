@@ -22,10 +22,6 @@ I graduated in Physics of Data with a thesis about Hadron Identification with Hi
 
 I graduated in Physics with a thesis about a study of performance of a dual readout calorimeter for Future Circular Colliders.
 
-## :chart_with_upwards_trend: Projects
-
-## :paperclip: Skills
-
 ## :high_brightness: Hobbies
 
 ### Sport
