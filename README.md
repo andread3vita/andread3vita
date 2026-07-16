@@ -24,7 +24,6 @@ I believe that one of the most valuable ways to contribute to experimental physi
 
 * 🔬 **Experimental High-Energy Physics**
 * 🧲 **Particle-detector research and development**
-* 🛤️ **Charged-particle tracking and vertex reconstruction**
 * 🤖 **Machine learning for physics**
 * 🌐 **Future collider experiments**
 
@@ -84,40 +83,11 @@ Thesis on the **performance of a dual-readout calorimeter for future circular co
 
 ---
 
-## 🧠 Research Interests
-
-| Area                     | Topics                                                            |
-| ------------------------ | ----------------------------------------------------------------- |
-| **Tracking**             | Track finding, trajectory reconstruction and detector performance |
-| **Vertexing**            | Track vertexing, vertex finding and vertex fitting                |
-| **Detector R&D**         | Drift chambers, calorimetry and future detector concepts          |
-| **Machine Learning**     | ML-based methods for High-Energy Physics                          |
-| **Future Colliders**     | FCC-ee physics, software and detector requirements                |
-| **Scientific Computing** | Reconstruction pipelines, simulation and data analysis            |
-
----
-
 ## 🗣️ Science Outreach
 
 Alongside my research, I am an **active CERN guide**.
 
 I enjoy introducing visitors to CERN, explaining its experiments and sharing how fundamental research helps us investigate the laws of nature. Science communication and public engagement are important to me, and I see outreach as an essential part of being a researcher.
-
----
-
-## 🛠️ Tools and Technologies
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![ROOT](https://img.shields.io/badge/ROOT-Scientific%20Computing-276DC3?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-High--Energy%20Physics-FF6F00?style=flat-square)
-
-</div>
 
 ---
 
