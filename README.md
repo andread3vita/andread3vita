@@ -22,7 +22,7 @@ My fascination with physics began in high school, when I discovered that the beh
 
 I believe that one of the most valuable ways to contribute to experimental physics is to explore alternatives to state-of-the-art instruments and reconstruction techniques. For this reason, my interests lie at the intersection of:
 
-* 🔬 **Experimental High-Energy Physics**
+* 🔬 **Experimental high-energy physics**
 * 🧲 **Particle-detector research and development**
 * 🤖 **Machine learning for physics**
 * 🌐 **Future collider experiments**
@@ -44,6 +44,9 @@ Detector hits
      │
      ▼
 Track finding
+     │
+     ▼
+Track fitting
      │
      ▼
 Track vertexing
@@ -87,7 +90,7 @@ Thesis on the **performance of a dual-readout calorimeter for future circular co
 
 Alongside my research, I am an **active CERN guide**.
 
-I enjoy introducing visitors to CERN, explaining its experiments and sharing how fundamental research helps us investigate the laws of nature. Science communication and public engagement are important to me, and I see outreach as an essential part of being a researcher.
+I enjoy introducing visitors to CERN, explaining its experiments, and sharing how fundamental research helps us investigate the laws of nature. Science communication and public engagement are important to me, and I see outreach as an essential part of being a researcher.
 
 ---
 
@@ -103,17 +106,65 @@ During my master's studies, I also played table tennis.
 
 ### 🥾 Hiking
 
-I enjoy hiking, exploring new landscapes and spending time outdoors.
+I enjoy hiking, exploring new landscapes, and spending time outdoors.
 
 ### 📚 Wikipedia
 
 I have contributed to the Italian-language Wikipedia since **2018** under the username **JustDrew** and became an **autopatrolled user** in 2020.
 
-My contributions include topics connected to physics and Lombardy, as well as general maintenance and improvement of encyclopedia articles.
+My contributions include topics related to physics and Lombardy, as well as general maintenance and improvements to encyclopedia articles.
 
 <div align="center">
 
 [![Visit my Wikipedia profile](https://img.shields.io/badge/Visit%20my%20Wikipedia%20profile-JustDrew-000000?style=for-the-badge\&logo=wikipedia\&logoColor=white)](https://it.wikipedia.org/wiki/Utente:JustDrew)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=andread3vita&show_icons=true&hide_border=true&theme=transparent"
+alt="Andrea De Vita's GitHub statistics"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=andread3vita&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+alt="Andrea De Vita's most-used languages"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=andread3vita&hide_border=true&theme=transparent"
+alt="Andrea De Vita's GitHub contribution streak"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=andread3vita&hide_border=true&theme=github-compact"
+alt="Andrea De Vita's GitHub contribution activity graph"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=andread3vita&style=flat-square"
+alt="GitHub profile views"
+/>
 
 </div>
 
@@ -128,33 +179,4 @@ My contributions include topics connected to physics and Lombardy, as well as ge
 [![University Email](https://img.shields.io/badge/UniPD-andrea.devita.1%40phd.unipd.it-B5121B?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:andrea.devita.1@phd.unipd.it)
 
 </div>
-
----
-
-<div align="center">
-
-### “Exploring the smallest constituents of nature to understand the largest structures of the universe.”
-
-</div>
-
-<!--
-Optional GitHub statistics
-
-Replace YOUR_GITHUB_USERNAME with your actual GitHub username and remove
-the opening and closing comment markers around the elements you want to use.
-
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
-       alt="Andrea's GitHub statistics" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
-       alt="Most-used languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square"
-       alt="Profile views" />
-</p>
--->
 
