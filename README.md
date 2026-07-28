@@ -127,31 +127,6 @@ My contributions include topics related to physics and Lombardy, as well as gene
 <div align="center">
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=andread3vita&show_icons=true&hide_border=true&theme=transparent"
-alt="Andrea De Vita's GitHub statistics"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=andread3vita&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-alt="Andrea De Vita's most-used languages"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=andread3vita&hide_border=true&theme=transparent"
-alt="Andrea De Vita's GitHub contribution streak"
-/>
-
-</div>
-
-<div align="center">
-
-<img
 width="95%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=andread3vita&hide_border=true&theme=github-compact"
 alt="Andrea De Vita's GitHub contribution activity graph"
